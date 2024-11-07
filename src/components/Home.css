@@ -1,0 +1,50 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #1a1a1a;
+  color: #ffffff;
+}
+
+.home-section {
+  max-width: 800px;
+  margin: 100px 50px 00px 250px;
+  padding: 20px;
+  background-color: #2a2a2a;
+  border-radius: 8px;
+  color: #ffffff;
+}
+
+h1 {
+  color: #00bcd4;
+  font-size: 28px;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+p {
+  color: #e0e0e0;
+  font-size: 18px;
+  text-align: center;
+  line-height: 1.6;
+}
+
+.projects-section h2 {
+  color: #00bcd4;
+  font-size: 24px;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.projects-section ul {
+  list-style-type: none;
+  padding: 0;
+  text-align: center;
+}
+
+.projects-section ul li {
+  font-size: 18px;
+  margin: 10px 0;
+  color: #e0e0e0;
+}
+
+
